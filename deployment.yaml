@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: dhivya1806/java-demo-app:10
+        image: dhivya1806/java-demo-app:11
         ports:
         - containerPort: 8080
